@@ -5,3 +5,4 @@ http://mirrors.sohu.com/mysql/MySQL-5.6/mysql-5.6.39-linux-glibc2.12-x86_64.tar.
 
 latest mysql community Server
 https://dev.mysql.com/downloads/mysql/
+https://downloads.mysql.com/archives/get/p/23/file/mysql-community-server-5.7.31-1.el7.x86_64.rpm
